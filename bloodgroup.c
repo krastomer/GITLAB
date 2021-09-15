@@ -17,7 +17,7 @@ void main()
           strcmp(G, "B") != 0 &&
           strcmp(G, "AB") != 0 &&
           strcmp(G, "O") != 0)
-        printf("Blood group %s is incorrect! Please try again.\n", G);
+        
     } while (strcmp(G, "A") != 0 &&
              strcmp(G, "B") != 0 &&
              strcmp(G, "AB") != 0 &&
@@ -45,5 +45,5 @@ void main()
     printf("\nContinue (YES for Yes)? ");
     scanf("%s", answer);
   } while (strcmp(answer, "YES") == 0);
-  printf("GoodLuck\n");
+  printf("ENHYPEN\n");
 }

@@ -31,7 +31,7 @@ void main()
 
       printf("Enter Student ID to Search (0 to End): ");
 
-      scanf("%d", &SearchID);
+     
   }
   printf("Bye Bye\n"); 
 }
